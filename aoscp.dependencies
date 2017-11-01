@@ -9,7 +9,7 @@
     "repository":  "Suicide-Squirrel/proprietary_vendor_lge",
     "target_path": "vendor/lge",
     "remote":      "github",
-    "branch":      "aoscp"
+    "branch":      "cm-14.1"
   },
   {
     "repository":  "proprietary_vendor_qcom_binaries",
