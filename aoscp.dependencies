@@ -9,12 +9,6 @@
     "repository":  "Suicide-Squirrel/proprietary_vendor_lge",
     "target_path": "vendor/lge",
     "remote":      "github",
-    "branch":      "cm-14.1"
-  },
-  {
-    "repository":  "proprietary_vendor_qcom_binaries",
-    "target_path": "vendor/qcom/binaries",
-    "remote":      "aoscp",
-    "branch":      "nougat-mr2"
-    }
+    "branch":      "oreo"
+  }
 ]
