@@ -1,0 +1,14 @@
+[
+  {
+    "repository":  "Suicide-Squirrel/android_device_lge_g4-common",
+    "target_path": "device/lge/g4-common",
+    "remote":      "github",
+    "branch":      "aoscp"
+  },
+  {
+    "repository":  "Suicide-Squirrel/proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "remote":      "github",
+    "branch":      "cm-14.1"
+  }
+]
