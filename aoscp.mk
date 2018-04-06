@@ -6,7 +6,7 @@ $(call inherit-product, vendor/aoscp/configs/common_full_phone.mk)
 # Overlays (inherit after vendor/cm to ensure we override it)
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
-PRODUCT_NAME := aoscp_h812
+PRODUCT_NAME := aoscp_h812_usu
 PRODUCT_DEVICE := h812
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := LG-H812
