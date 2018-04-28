@@ -22,6 +22,7 @@ $(call inherit-product-if-exists, vendor/lge/h811/h811-vendor.mk)
 # Audio
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/audio/audio_platform_info.xml:system/etc/audio_platform_info.xml
+    $(LOCAL_PATH)/audio/audio_platform_info.xml:vendor/system/etc/audio_platform_info.xml
 
 # Gps
 PRODUCT_COPY_FILES += \
