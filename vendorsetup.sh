@@ -1,3 +1,3 @@
-add_lunch_combo lineage_h811-userdebug
-add_lunch_combo lineage_h811-user
-add_lunch_combo lineage_h811-eng
+add_lunch_combo lineage_h812_usu-userdebug
+add_lunch_combo lineage_h812_usu-user
+add_lunch_combo lineage_h812_usu-eng

@@ -18,7 +18,7 @@
 set -e
 
 # Required!
-export DEVICE=h811
+export DEVICE=h812
 export VENDOR=lge
 
 # Call the common extractor
