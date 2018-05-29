@@ -7,10 +7,6 @@ $(call inherit-product, vendor/rr/config/common_full_phone.mk)
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 PRODUCT_NAME := rr_h812_usu
-PRODUCT_DEVICE := h812
-PRODUCT_BRAND := lge
-PRODUCT_MODEL := LG-H812
-PRODUCT_MANUFACTURER := LGE
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="g4" \
