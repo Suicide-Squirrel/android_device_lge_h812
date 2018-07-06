@@ -11,6 +11,6 @@ PRODUCT_NAME := lineage_h812_usu
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="g4" \
     PRODUCT_NAME="g4__tmo_us" \
-    PRIVATE_BUILD_DESC="p1__tmo_us-user 8.0 NRD90U 1717709471d0f release-keys"
+    PRIVATE_BUILD_DESC="p1_tls_ca-user 6.0 MRA58K 170861449823d release-keys"
 
-BUILD_FINGERPRINT := "lge/p1__tmo_us/p1:8.0/NRD90U/1717709471d0f:user/release-keys"
+BUILD_FINGERPRINT := "lge/p1_tls_ca/p1:6.0/MRA58K/170861449823d:user/release-keys"
