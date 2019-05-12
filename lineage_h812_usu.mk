@@ -31,7 +31,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 PRODUCT_NAME := lineage_h812_usu
-PRODUCT_DEVICE := h812
+PRODUCT_DEVICE := h812_usu
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := LG-H812
 PRODUCT_MANUFACTURER := LGE
